@@ -1,4 +1,5 @@
 {
+  "name": "groovestream",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "env": {
